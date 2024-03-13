@@ -1,0 +1,2 @@
+file 2 context
+git only knows the commited changes
